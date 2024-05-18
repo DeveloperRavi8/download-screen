@@ -112,14 +112,13 @@ body {
   align-items: center;
 }
 
-.carousel-container .carousel-slide img,
-.carousel-container .carousel-slide video {
+.carousel-container .carousel-slide img{
   width: 100%;
   height: auto;
   height: 620px;
-  width: 285px;
+  width: 290px;
   border-radius: 30px;
-  margin-top: 10px;
+  margin-top: 13px;
   margin-left: 15px;
 }
 .carousel-container .carousel-slide img {
